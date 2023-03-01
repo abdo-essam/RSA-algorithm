@@ -15,3 +15,6 @@ The program then prompts the user to enter a plain text message, which is conver
 The program then decrypts each encrypted byte using the private key and the Chinese Remainder Theorem, and the resulting decrypted values are stored in another array list. The decrypted byte values are then converted back to characters and printed as the decrypted message.
 
 Overall, this program provides a basic implementation of the RSA encryption and decryption algorithm in Java, using some common techniques for modular exponentiation and decryption. However, it should be noted that this implementation may not be secure enough for real-world applications, as it uses fixed prime numbers and does not include any additional security measures such as padding or randomization.
+
+
+![afdf](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.javatpoint.com%2Frsa-encryption-algorithm&psig=AOvVaw1f0LmOM5BDMP-Kkb-SMEih&ust=1677796364597000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKCDsq7lu_0CFQAAAAAdAAAAABAO)
