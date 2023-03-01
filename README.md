@@ -1,4 +1,4 @@
-# RSA-algorithm-
+# RSA-algorithm
 RSA encryption and decryption 
 
 # Faculty Of Computer And Artificial Intelligence Cairo University `FCAI-CU`
